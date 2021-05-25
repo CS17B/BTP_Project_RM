@@ -63,5 +63,5 @@ chmod +x bash.sh
 ### ```3.``` Open browser, enter ```http://0.0.0.0:7000``` 
 
 
-<img src="new.png" width="200.75rem" height="128.25rem" align="center" />
+<img src="new.png" width="400.75rem" height="200.25rem" align="center" />
 
