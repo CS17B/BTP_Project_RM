@@ -14,10 +14,18 @@ https://services.iittp.ac.in/annotator
 ## Initial setup
 ### ```</>``` Open config.py in the folder ```annotator```
 ````
+Open the folder named annotator and open the file named config.py and set the root_directory
+variable to the path where the repository is downloaded
+For example if the respitory is downloaded in /home/iit/Desktop/kowndinya/annotator-web-tool
+keep root_directory = "/home/iit/Desktop/kowndinya/annotator-web-tool"
 Set root_directory to the path of the folder where this repository is downloaded 
 ````
 ### ```</>``` Open config.py in the folder ```model-building```
 ````
+Open the folder named model-building and open the file named config.py and set the root_directory
+variable to the path where the repository is downloaded
+For example if the respitory is downloaded in /home/iit/Desktop/kowndinya/annotator-web-tool
+keep root_directory = "/home/iit/Desktop/kowndinya/annotator-web-tool"
 Set root_directory to the path of the folder where this repository is downloaded 
 ````
 ### ```</>``` Open the file ```global_variables.pl``` in the folder ```annotator/static/perl```
