@@ -68,7 +68,12 @@ chmod +x bash.sh
 ## Plug n Play Annotation Services
 ````
 First we have go to (http://services.iittp.ac.in/annotator/annotate) and scroll down to see
-the preview of serices as shown in the below image. And enter the URL of the language 
+the preview of serices as shown in the below image. And enter the URL of the specific language 
+to get auto annotated . Before enetered the service 
+````
+### ```1.``` Open ```/usr/share/tesseract-ocr/4.00/tessdata``` and put the corresponding language specific dataset in the location
+
+
 
 ````
 <img src="new.png" width="800.75rem" height="500.25rem" align="center" />
