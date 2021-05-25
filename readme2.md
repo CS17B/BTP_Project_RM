@@ -62,6 +62,7 @@ chmod +x bash.sh
 ````
 ### ```3.``` Open browser, enter ```http://0.0.0.0:7000``` 
 
+## Plug n Play Annotation Services
 
-<img src="new.png" width="800.75rem" height="500.25rem" align="mid-center" />
+<img src="new.png" width="800.75rem" height="500.25rem" align="center" />
 
