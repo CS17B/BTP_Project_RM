@@ -60,11 +60,14 @@ python3 auto-annotator.py
 
 ### ```2.``` Run the ```bash script``` in the folder ```annotator-web-tool```
 ````
+Open the folder named annotator-web-tool and run the bash script file using the commands given below
 chmod +x bash.sh
 ./bash.sh
 ````
 ### ```3.``` Open browser, enter ```http://0.0.0.0:7000``` 
-
+````
+Open the browser the enter the URL http://0.0.0.0:7000 to avail the services
+````
 ---
 
 ## Plug n Play Annotation Services
