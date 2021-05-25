@@ -73,6 +73,26 @@ to get auto annotated . Before enetered the service
 ````
 ### ```1.``` Open ```/usr/share/tesseract-ocr/4.00/tessdata``` and put the corresponding language specific dataset in the location
 
+### ```2.``` Open ```annotation services``` and put the file  ```plug_'language'-annotator.py``` in it
+````
+In this file the (upload folder) fill the folder model_building and a specific to each 
+language like annotation_services_images_language
+And create aroute specific to language (/plug/tesseract-'language')
+And also give a new port to each language
+````
+### ```3.``` Open ```annotation services``` and put the file  ```plug_'language'.py``` in it
+````
+In this file you have to refer to in the varaible field tessdata_dir_config =
+/usr/share/tesseract-ocr/4.00/tessdata
+And the language lang = 'language'
+By doing all these the service is ready to operare on the url 
+http://0.0.0.0:'port specific to language'/plug/tesseract-'specific language'
+````
+### ```4.```
+````
+By entering the URL on the url tab and click on Get Annotations to get the
+annotated image for the uploaded image depending upon the language
+
 
 <img src="new.png" width="800.75rem" height="500.25rem" align="center" />
 
