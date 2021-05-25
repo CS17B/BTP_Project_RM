@@ -79,10 +79,20 @@ Open the browser the enter the URL http://0.0.0.0:7000 to avail the services
 ---
 
 ## Plug n Play Annotation Services
+
+### ```1.```Run the commands for avaialing the service to a specific language on the terminal 
+````
+python3 plug_Telugu.py
+python3 plug_Telugu-annotator.py
+
+---
+## Procedure to add an new Annotation Service
 ````
 First we have go to (http://services.iittp.ac.in/annotator/annotate) and scroll down to see
 the preview of serices as shown in the below image. And enter the URL of the specific language 
 to get auto annotated . Before enetered the service 
+
+
 ````
 ### ```1.``` Open ```/usr/share/tesseract-ocr/4.00/tessdata``` and put the corresponding language specific dataset in the location
 
