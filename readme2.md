@@ -73,7 +73,6 @@ to get auto annotated . Before enetered the service
 ````
 ### ```1.``` Open ```/usr/share/tesseract-ocr/4.00/tessdata``` and put the corresponding language specific dataset in the location
 
-````
 
 <img src="new.png" width="800.75rem" height="500.25rem" align="center" />
 
