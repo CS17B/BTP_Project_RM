@@ -65,6 +65,8 @@ chmod +x bash.sh
 ````
 ### ```3.``` Open browser, enter ```http://0.0.0.0:7000``` 
 
+---
+
 ## Plug n Play Annotation Services
 ````
 First we have go to (http://services.iittp.ac.in/annotator/annotate) and scroll down to see
@@ -92,7 +94,7 @@ http://0.0.0.0:'port specific to language'/plug/tesseract-'specific language'
 ````
 By entering the URL on the url tab and click on Get Annotations to get the
 annotated image for the uploaded image depending upon the language
-
+````
 
 <img src="new.png" width="800.75rem" height="500.25rem" align="center" />
 
