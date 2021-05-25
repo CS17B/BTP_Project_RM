@@ -51,7 +51,10 @@ db.createCollection('author_job')
 
 ### ```1.``` Open ```2 terminals``` in the folder ```model_building```
 ````
+On one terminal the file named build-annotator.py should be runned with the command given below
 python3 build-annotator.py
+
+On other terminal the file named auto-annotator.py should be runned with the command given below
 python3 auto-annotator.py
 ````
 
@@ -63,6 +66,9 @@ chmod +x bash.sh
 ### ```3.``` Open browser, enter ```http://0.0.0.0:7000``` 
 
 ## Plug n Play Annotation Services
+````
+First we have to (http://services.iittp.ac.in/annotator/annotate) and scroll down to see the preview of serices as shown in the below image
 
+````
 <img src="new.png" width="800.75rem" height="500.25rem" align="center" />
 
