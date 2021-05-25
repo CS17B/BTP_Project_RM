@@ -84,8 +84,9 @@ Open the browser the enter the URL http://0.0.0.0:7000 to avail the services
 ````
 python3 plug_Telugu.py
 python3 plug_Telugu-annotator.py
-
+````
 ---
+
 ## Procedure to add an new Annotation Service
 ````
 First we have go to (http://services.iittp.ac.in/annotator/annotate) and scroll down to see
@@ -111,7 +112,7 @@ And the language lang = 'language'
 By doing all these the service is ready to operare on the url 
 http://0.0.0.0:'port specific to language'/plug/tesseract-'specific language'
 ````
-### ```4.```
+### ```4.``` Open the Browser
 ````
 By entering the URL on the url tab and click on Get Annotations to get the
 annotated image for the uploaded image depending upon the language
