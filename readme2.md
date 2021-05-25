@@ -67,8 +67,8 @@ chmod +x bash.sh
 
 ## Plug n Play Annotation Services
 ````
-First we have to (http://services.iittp.ac.in/annotator/annotate) and scroll down to see
-the preview of serices as shown in the below image
+First we have go to (http://services.iittp.ac.in/annotator/annotate) and scroll down to see
+the preview of serices as shown in the below image. And enter the URL of the language 
 
 ````
 <img src="new.png" width="800.75rem" height="500.25rem" align="center" />
